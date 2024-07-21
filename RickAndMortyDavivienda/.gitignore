@@ -11,13 +11,6 @@ nupkg/
 # Visual Studio Code
 .vscode
 
-#jsreport
-jsreport/node_modules/
-
-#storage
-StorageFile/TempUploads/
-StorageFile/wdocs/
-
 # Rider
 .idea
 
@@ -42,5 +35,3 @@ bld/
 msbuild.log
 msbuild.err
 msbuild.wrn
-
-ESDAV_API/jsreport/data/settings
